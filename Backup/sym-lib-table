@@ -1,0 +1,6 @@
+(sym_lib_table
+  (lib (name "marbastlib-choc")(type "KiCad")(uri "C:/Users/Finn/Desktop/Design Projects/Reference Folders/fuyu-main/marbastlib/marbastlib-choc.kicad_sym")(options "")(descr ""))
+  (lib (name "marbastlib-mx")(type "KiCad")(uri "C:/Users/Finn/Desktop/Design Projects/Reference Folders/fuyu-main/marbastlib/marbastlib-mx.kicad_sym")(options "")(descr ""))
+  (lib (name "marbastlib-various")(type "KiCad")(uri "C:/Users/Finn/Desktop/Design Projects/Reference Folders/fuyu-main/marbastlib/marbastlib-various.kicad_sym")(options "")(descr ""))
+  (lib (name "Sleep-lib")(type "KiCad")(uri "C:/Users/Finn/Desktop/Design Projects/Reference Folders/fuyu-main/Sleep-lib/Sleep-lib.kicad_sym")(options "")(descr ""))
+)
