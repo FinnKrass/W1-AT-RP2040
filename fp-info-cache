@@ -1,4 +1,4 @@
-24239017733021107
+24279014241034887
 Alps_Only
 ALPS-1.5U
 
@@ -84721,6 +84721,13 @@ M2_Screw_PTH
 1
 1
 Personalised
+Molex_Pico-EZmate_78171-0004_1x04-1MP_P1.20mm_Vertical
+Molex Pico-EZmate series connector, 78171-0004 (http://www.molex.com/pdm_docs/sd/781710002_sd.pdf), generated with kicad-footprint-generator
+connector Molex Pico-EZmate side entry
+0
+6
+5
+Personalised
 SDB628
 SOT23-6
 Power Supply
@@ -88718,6 +88725,13 @@ rotary encoder
 7
 6
 SamacSys_Parts
+781710004
+78171-0004-2
+Connector
+0
+6
+6
+SamacSys_Parts
 2121340002
 212134-0002-1
 Connector
@@ -88732,12 +88746,26 @@ Switch
 2
 2
 SamacSys_Parts
+MHSS1105
+MHSS1105
+Switch
+0
+3
+3
+SamacSys_Parts
 NE555DR
 D (R-PDSO-G8)
 Integrated Circuit
 0
 8
 8
+SamacSys_Parts
+OS102011MS2QS1
+OS102011MS2QS1-2
+Switch
+0
+5
+5
 SamacSys_Parts
 SOIC127P790X216-8N
 8-Pin SOIC 208-mil (Package Code SS)
@@ -89221,6 +89249,62 @@ QFN DFN_QFN
 0
 70
 57
+SnapEDA Library
+7447779122
+
+
+0
+2
+2
+SnapEDA Library
+CUI_UJC-HP-3-SMT-TR
+
+
+0
+10
+10
+SnapEDA Library
+DIOM6859X262N
+
+
+0
+2
+2
+SnapEDA Library
+DIOM7959X265N
+
+
+0
+2
+2
+SnapEDA Library
+MODULE_102010388
+
+
+0
+14
+14
+SnapEDA Library
+QFN40P700X700X90-57N
+
+
+0
+57
+57
+SnapEDA Library
+SW_PTS636_SM43J_SMTR_LFS
+
+
+0
+2
+2
+SnapEDA Library
+XTAL_ABLS-12.000MHZ-B4-T
+
+
+0
+2
+2
 Socket
 3M_Textool_240-1288-00-0602J_2x20_P2.54mm
 3M 40-pin zero insertion force socket, though-hole, row spacing 25.4 mm (1000 mils)

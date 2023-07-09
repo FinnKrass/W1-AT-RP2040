@@ -1,0 +1,934 @@
+07-09 20:02:58 com_github_MitjaNemec_Archive3DModels.action_archive_3d_models 220:Plugin executed on: 'win32'
+07-09 20:02:58 com_github_MitjaNemec_Archive3DModels.action_archive_3d_models 221:Plugin executed with python version: '3.9.16 (main, Apr  9 2023, 05:22:13) [MSC v.1934 64 bit (AMD64)]'
+07-09 20:02:58 com_github_MitjaNemec_Archive3DModels.action_archive_3d_models 222:KiCad build version: 7.0.2
+07-09 20:02:58 com_github_MitjaNemec_Archive3DModels.action_archive_3d_models 223:Plugin version: 1.0.9
+
+07-09 20:02:58 com_github_MitjaNemec_Archive3DModels.action_archive_3d_models 228:Screen sizes: [wx.Size(3840, 2160), wx.Size(1920, 1080)]
+07-09 20:02:58 com_github_MitjaNemec_Archive3DModels.action_archive_3d_models 235:Dialog size: wx.Size(213, 81)
+07-09 20:02:58 com_github_MitjaNemec_Archive3DModels.action_archive_3d_models 237:Char size: 25
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 24:Starting to archive 3D models
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 45:Getting 3D models for footprint of: SW2
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 56:Trying to copy: ${KIPRJMOD}/packages3D/SW_Cherry_MX_PCB.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 132:Did not copy: ${KIPRJMOD}/packages3D/SW_Cherry_MX_PCB.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 136:Remapping: ${KIPRJMOD}/packages3D/SW_Cherry_MX_PCB.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 45:Getting 3D models for footprint of: SW56
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 56:Trying to copy: ${KIPRJMOD}/packages3D/SW_Cherry_MX_PCB.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 132:Did not copy: ${KIPRJMOD}/packages3D/SW_Cherry_MX_PCB.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 136:Remapping: ${KIPRJMOD}/packages3D/SW_Cherry_MX_PCB.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 45:Getting 3D models for footprint of: S1
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 56:Trying to copy: ${KIPRJMOD}/packages3D/Stabilizer_Cherry_MX_2.00u.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 132:Did not copy: ${KIPRJMOD}/packages3D/Stabilizer_Cherry_MX_2.00u.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 136:Remapping: ${KIPRJMOD}/packages3D/Stabilizer_Cherry_MX_2.00u.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 45:Getting 3D models for footprint of: SW33
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 56:Trying to copy: ${KIPRJMOD}/packages3D/SW_Cherry_MX_PCB.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 132:Did not copy: ${KIPRJMOD}/packages3D/SW_Cherry_MX_PCB.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 136:Remapping: ${KIPRJMOD}/packages3D/SW_Cherry_MX_PCB.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 45:Getting 3D models for footprint of: SW4
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 56:Trying to copy: ${KIPRJMOD}/packages3D/SW_Cherry_MX_PCB.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 132:Did not copy: ${KIPRJMOD}/packages3D/SW_Cherry_MX_PCB.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 136:Remapping: ${KIPRJMOD}/packages3D/SW_Cherry_MX_PCB.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 45:Getting 3D models for footprint of: SW49
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 56:Trying to copy: ${KIPRJMOD}/packages3D/SW_Cherry_MX_PCB.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 132:Did not copy: ${KIPRJMOD}/packages3D/SW_Cherry_MX_PCB.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 136:Remapping: ${KIPRJMOD}/packages3D/SW_Cherry_MX_PCB.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 45:Getting 3D models for footprint of: SW78
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 56:Trying to copy: ${KIPRJMOD}/packages3D/SW_Cherry_MX_PCB.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 132:Did not copy: ${KIPRJMOD}/packages3D/SW_Cherry_MX_PCB.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 136:Remapping: ${KIPRJMOD}/packages3D/SW_Cherry_MX_PCB.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 45:Getting 3D models for footprint of: S4
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 56:Trying to copy: ${KIPRJMOD}/packages3D/Stabilizer_Cherry_MX_2.00u.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 132:Did not copy: ${KIPRJMOD}/packages3D/Stabilizer_Cherry_MX_2.00u.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 136:Remapping: ${KIPRJMOD}/packages3D/Stabilizer_Cherry_MX_2.00u.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 45:Getting 3D models for footprint of: SW63
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 56:Trying to copy: ${KIPRJMOD}/packages3D/SW_Cherry_MX_PCB.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 132:Did not copy: ${KIPRJMOD}/packages3D/SW_Cherry_MX_PCB.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 136:Remapping: ${KIPRJMOD}/packages3D/SW_Cherry_MX_PCB.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 45:Getting 3D models for footprint of: SW51
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 56:Trying to copy: ${KIPRJMOD}/packages3D/SW_Cherry_MX_PCB.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 132:Did not copy: ${KIPRJMOD}/packages3D/SW_Cherry_MX_PCB.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 136:Remapping: ${KIPRJMOD}/packages3D/SW_Cherry_MX_PCB.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 45:Getting 3D models for footprint of: SW52
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 56:Trying to copy: ${KIPRJMOD}/packages3D/SW_Cherry_MX_PCB.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 132:Did not copy: ${KIPRJMOD}/packages3D/SW_Cherry_MX_PCB.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 136:Remapping: ${KIPRJMOD}/packages3D/SW_Cherry_MX_PCB.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 45:Getting 3D models for footprint of: SW7
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 56:Trying to copy: ${KIPRJMOD}/packages3D/SW_Cherry_MX_PCB.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 132:Did not copy: ${KIPRJMOD}/packages3D/SW_Cherry_MX_PCB.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 136:Remapping: ${KIPRJMOD}/packages3D/SW_Cherry_MX_PCB.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 45:Getting 3D models for footprint of: H5
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 45:Getting 3D models for footprint of: H2
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 45:Getting 3D models for footprint of: SW97
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 56:Trying to copy: ${KIPRJMOD}/packages3D/SW_Cherry_MX_PCB.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 132:Did not copy: ${KIPRJMOD}/packages3D/SW_Cherry_MX_PCB.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 136:Remapping: ${KIPRJMOD}/packages3D/SW_Cherry_MX_PCB.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 45:Getting 3D models for footprint of: SW70
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 56:Trying to copy: ${KIPRJMOD}/packages3D/SW_Cherry_MX_PCB.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 132:Did not copy: ${KIPRJMOD}/packages3D/SW_Cherry_MX_PCB.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 136:Remapping: ${KIPRJMOD}/packages3D/SW_Cherry_MX_PCB.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 45:Getting 3D models for footprint of: SW30
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 56:Trying to copy: ${KIPRJMOD}/packages3D/SW_Cherry_MX_PCB.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 132:Did not copy: ${KIPRJMOD}/packages3D/SW_Cherry_MX_PCB.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 136:Remapping: ${KIPRJMOD}/packages3D/SW_Cherry_MX_PCB.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 45:Getting 3D models for footprint of: SW37
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 56:Trying to copy: ${KIPRJMOD}/packages3D/SW_Cherry_MX_PCB.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 132:Did not copy: ${KIPRJMOD}/packages3D/SW_Cherry_MX_PCB.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 136:Remapping: ${KIPRJMOD}/packages3D/SW_Cherry_MX_PCB.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 45:Getting 3D models for footprint of: SW81
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 56:Trying to copy: ${KIPRJMOD}/packages3D/SW_Cherry_MX_PCB.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 132:Did not copy: ${KIPRJMOD}/packages3D/SW_Cherry_MX_PCB.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 136:Remapping: ${KIPRJMOD}/packages3D/SW_Cherry_MX_PCB.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 45:Getting 3D models for footprint of: SW14
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 56:Trying to copy: ${KIPRJMOD}/packages3D/SW_Cherry_MX_PCB.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 132:Did not copy: ${KIPRJMOD}/packages3D/SW_Cherry_MX_PCB.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 136:Remapping: ${KIPRJMOD}/packages3D/SW_Cherry_MX_PCB.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 45:Getting 3D models for footprint of: H7
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 45:Getting 3D models for footprint of: SW31
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 56:Trying to copy: ${KIPRJMOD}/packages3D/SW_Cherry_MX_PCB.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 132:Did not copy: ${KIPRJMOD}/packages3D/SW_Cherry_MX_PCB.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 136:Remapping: ${KIPRJMOD}/packages3D/SW_Cherry_MX_PCB.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 45:Getting 3D models for footprint of: SW40
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 56:Trying to copy: ${KIPRJMOD}/packages3D/SW_Cherry_MX_PCB.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 132:Did not copy: ${KIPRJMOD}/packages3D/SW_Cherry_MX_PCB.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 136:Remapping: ${KIPRJMOD}/packages3D/SW_Cherry_MX_PCB.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 45:Getting 3D models for footprint of: SW6
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 56:Trying to copy: ${KIPRJMOD}/packages3D/SW_Cherry_MX_PCB.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 132:Did not copy: ${KIPRJMOD}/packages3D/SW_Cherry_MX_PCB.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 136:Remapping: ${KIPRJMOD}/packages3D/SW_Cherry_MX_PCB.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 45:Getting 3D models for footprint of: SW93
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 56:Trying to copy: ${KIPRJMOD}/packages3D/SW_Cherry_MX_PCB.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 132:Did not copy: ${KIPRJMOD}/packages3D/SW_Cherry_MX_PCB.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 136:Remapping: ${KIPRJMOD}/packages3D/SW_Cherry_MX_PCB.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 45:Getting 3D models for footprint of: SW19
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 56:Trying to copy: ${KIPRJMOD}/packages3D/SW_Cherry_MX_PCB.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 132:Did not copy: ${KIPRJMOD}/packages3D/SW_Cherry_MX_PCB.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 136:Remapping: ${KIPRJMOD}/packages3D/SW_Cherry_MX_PCB.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 45:Getting 3D models for footprint of: SW92
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 56:Trying to copy: ${KIPRJMOD}/packages3D/SW_Cherry_MX_PCB.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 132:Did not copy: ${KIPRJMOD}/packages3D/SW_Cherry_MX_PCB.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 136:Remapping: ${KIPRJMOD}/packages3D/SW_Cherry_MX_PCB.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 45:Getting 3D models for footprint of: SW18
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 56:Trying to copy: ${KIPRJMOD}/packages3D/SW_Cherry_MX_PCB.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 132:Did not copy: ${KIPRJMOD}/packages3D/SW_Cherry_MX_PCB.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 136:Remapping: ${KIPRJMOD}/packages3D/SW_Cherry_MX_PCB.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 45:Getting 3D models for footprint of: SW58
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 56:Trying to copy: ${KIPRJMOD}/packages3D/SW_Cherry_MX_PCB.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 132:Did not copy: ${KIPRJMOD}/packages3D/SW_Cherry_MX_PCB.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 136:Remapping: ${KIPRJMOD}/packages3D/SW_Cherry_MX_PCB.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 45:Getting 3D models for footprint of: SW3
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 56:Trying to copy: ${KIPRJMOD}/packages3D/SW_Cherry_MX_PCB.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 132:Did not copy: ${KIPRJMOD}/packages3D/SW_Cherry_MX_PCB.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 136:Remapping: ${KIPRJMOD}/packages3D/SW_Cherry_MX_PCB.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 45:Getting 3D models for footprint of: SW83
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 56:Trying to copy: ${KIPRJMOD}/packages3D/SW_Cherry_MX_PCB.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 132:Did not copy: ${KIPRJMOD}/packages3D/SW_Cherry_MX_PCB.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 136:Remapping: ${KIPRJMOD}/packages3D/SW_Cherry_MX_PCB.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 45:Getting 3D models for footprint of: H10
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 45:Getting 3D models for footprint of: H11
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 45:Getting 3D models for footprint of: SW41
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 56:Trying to copy: ${KIPRJMOD}/packages3D/SW_Cherry_MX_PCB.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 132:Did not copy: ${KIPRJMOD}/packages3D/SW_Cherry_MX_PCB.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 136:Remapping: ${KIPRJMOD}/packages3D/SW_Cherry_MX_PCB.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 45:Getting 3D models for footprint of: SW16
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 56:Trying to copy: ${KIPRJMOD}/packages3D/SW_Cherry_MX_PCB.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 132:Did not copy: ${KIPRJMOD}/packages3D/SW_Cherry_MX_PCB.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 136:Remapping: ${KIPRJMOD}/packages3D/SW_Cherry_MX_PCB.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 45:Getting 3D models for footprint of: SW45
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 56:Trying to copy: ${KIPRJMOD}/packages3D/SW_Cherry_MX_PCB.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 132:Did not copy: ${KIPRJMOD}/packages3D/SW_Cherry_MX_PCB.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 136:Remapping: ${KIPRJMOD}/packages3D/SW_Cherry_MX_PCB.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 45:Getting 3D models for footprint of: SW44
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 56:Trying to copy: ${KIPRJMOD}/packages3D/SW_Cherry_MX_PCB.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 132:Did not copy: ${KIPRJMOD}/packages3D/SW_Cherry_MX_PCB.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 136:Remapping: ${KIPRJMOD}/packages3D/SW_Cherry_MX_PCB.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 45:Getting 3D models for footprint of: SW24
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 56:Trying to copy: ${KIPRJMOD}/packages3D/SW_Cherry_MX_PCB.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 132:Did not copy: ${KIPRJMOD}/packages3D/SW_Cherry_MX_PCB.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 136:Remapping: ${KIPRJMOD}/packages3D/SW_Cherry_MX_PCB.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 45:Getting 3D models for footprint of: SW35
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 56:Trying to copy: ${KIPRJMOD}/packages3D/SW_Cherry_MX_PCB.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 132:Did not copy: ${KIPRJMOD}/packages3D/SW_Cherry_MX_PCB.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 136:Remapping: ${KIPRJMOD}/packages3D/SW_Cherry_MX_PCB.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 45:Getting 3D models for footprint of: SW10
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 56:Trying to copy: ${KIPRJMOD}/packages3D/SW_Cherry_MX_PCB.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 132:Did not copy: ${KIPRJMOD}/packages3D/SW_Cherry_MX_PCB.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 136:Remapping: ${KIPRJMOD}/packages3D/SW_Cherry_MX_PCB.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 45:Getting 3D models for footprint of: S8
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 56:Trying to copy: ${KIPRJMOD}/packages3D/Stabilizer_Cherry_MX_2.00u.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 132:Did not copy: ${KIPRJMOD}/packages3D/Stabilizer_Cherry_MX_2.00u.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 136:Remapping: ${KIPRJMOD}/packages3D/Stabilizer_Cherry_MX_2.00u.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 45:Getting 3D models for footprint of: SW48
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 56:Trying to copy: ${KIPRJMOD}/packages3D/SW_Cherry_MX_PCB.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 132:Did not copy: ${KIPRJMOD}/packages3D/SW_Cherry_MX_PCB.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 136:Remapping: ${KIPRJMOD}/packages3D/SW_Cherry_MX_PCB.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 45:Getting 3D models for footprint of: SW68
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 56:Trying to copy: ${KIPRJMOD}/packages3D/SW_Cherry_MX_PCB.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 132:Did not copy: ${KIPRJMOD}/packages3D/SW_Cherry_MX_PCB.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 136:Remapping: ${KIPRJMOD}/packages3D/SW_Cherry_MX_PCB.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 45:Getting 3D models for footprint of: SW84
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 56:Trying to copy: ${KIPRJMOD}/packages3D/SW_Cherry_MX_PCB.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 132:Did not copy: ${KIPRJMOD}/packages3D/SW_Cherry_MX_PCB.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 136:Remapping: ${KIPRJMOD}/packages3D/SW_Cherry_MX_PCB.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 45:Getting 3D models for footprint of: S5
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 56:Trying to copy: ${KIPRJMOD}/packages3D/Stabilizer_Cherry_MX_2.00u.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 132:Did not copy: ${KIPRJMOD}/packages3D/Stabilizer_Cherry_MX_2.00u.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 136:Remapping: ${KIPRJMOD}/packages3D/Stabilizer_Cherry_MX_2.00u.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 45:Getting 3D models for footprint of: SW77
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 56:Trying to copy: ${KIPRJMOD}/packages3D/SW_Cherry_MX_PCB.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 132:Did not copy: ${KIPRJMOD}/packages3D/SW_Cherry_MX_PCB.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 136:Remapping: ${KIPRJMOD}/packages3D/SW_Cherry_MX_PCB.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 45:Getting 3D models for footprint of: SW74
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 56:Trying to copy: ${KIPRJMOD}/packages3D/SW_Cherry_MX_PCB.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 132:Did not copy: ${KIPRJMOD}/packages3D/SW_Cherry_MX_PCB.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 136:Remapping: ${KIPRJMOD}/packages3D/SW_Cherry_MX_PCB.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 45:Getting 3D models for footprint of: SW86
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 56:Trying to copy: ${KIPRJMOD}/packages3D/SW_Cherry_MX_PCB.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 132:Did not copy: ${KIPRJMOD}/packages3D/SW_Cherry_MX_PCB.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 136:Remapping: ${KIPRJMOD}/packages3D/SW_Cherry_MX_PCB.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 45:Getting 3D models for footprint of: S6
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 56:Trying to copy: ${KIPRJMOD}/packages3D/Stabilizer_Cherry_MX_2.00u.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 132:Did not copy: ${KIPRJMOD}/packages3D/Stabilizer_Cherry_MX_2.00u.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 136:Remapping: ${KIPRJMOD}/packages3D/Stabilizer_Cherry_MX_2.00u.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 45:Getting 3D models for footprint of: SW75
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 56:Trying to copy: ${KIPRJMOD}/packages3D/SW_Cherry_MX_PCB.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 132:Did not copy: ${KIPRJMOD}/packages3D/SW_Cherry_MX_PCB.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 136:Remapping: ${KIPRJMOD}/packages3D/SW_Cherry_MX_PCB.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 45:Getting 3D models for footprint of: SW54
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 56:Trying to copy: ${KIPRJMOD}/packages3D/SW_Cherry_MX_PCB.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 132:Did not copy: ${KIPRJMOD}/packages3D/SW_Cherry_MX_PCB.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 136:Remapping: ${KIPRJMOD}/packages3D/SW_Cherry_MX_PCB.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 45:Getting 3D models for footprint of: S7
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 56:Trying to copy: ${KIPRJMOD}/packages3D/Stabilizer_Cherry_MX_2.00u.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 132:Did not copy: ${KIPRJMOD}/packages3D/Stabilizer_Cherry_MX_2.00u.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 136:Remapping: ${KIPRJMOD}/packages3D/Stabilizer_Cherry_MX_2.00u.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 45:Getting 3D models for footprint of: SW50
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 56:Trying to copy: ${KIPRJMOD}/packages3D/SW_Cherry_MX_PCB.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 132:Did not copy: ${KIPRJMOD}/packages3D/SW_Cherry_MX_PCB.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 136:Remapping: ${KIPRJMOD}/packages3D/SW_Cherry_MX_PCB.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 45:Getting 3D models for footprint of: H3
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 45:Getting 3D models for footprint of: SW42
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 56:Trying to copy: ${KIPRJMOD}/packages3D/SW_Cherry_MX_PCB.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 132:Did not copy: ${KIPRJMOD}/packages3D/SW_Cherry_MX_PCB.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 136:Remapping: ${KIPRJMOD}/packages3D/SW_Cherry_MX_PCB.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 45:Getting 3D models for footprint of: SW28
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 56:Trying to copy: ${KIPRJMOD}/packages3D/SW_Cherry_MX_PCB.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 132:Did not copy: ${KIPRJMOD}/packages3D/SW_Cherry_MX_PCB.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 136:Remapping: ${KIPRJMOD}/packages3D/SW_Cherry_MX_PCB.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 45:Getting 3D models for footprint of: SW23
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 56:Trying to copy: ${KIPRJMOD}/packages3D/SW_Cherry_MX_PCB.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 132:Did not copy: ${KIPRJMOD}/packages3D/SW_Cherry_MX_PCB.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 136:Remapping: ${KIPRJMOD}/packages3D/SW_Cherry_MX_PCB.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 45:Getting 3D models for footprint of: SW38
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 56:Trying to copy: ${KIPRJMOD}/packages3D/SW_Cherry_MX_PCB.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 132:Did not copy: ${KIPRJMOD}/packages3D/SW_Cherry_MX_PCB.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 136:Remapping: ${KIPRJMOD}/packages3D/SW_Cherry_MX_PCB.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 45:Getting 3D models for footprint of: SW20
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 56:Trying to copy: ${KIPRJMOD}/packages3D/SW_Cherry_MX_PCB.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 132:Did not copy: ${KIPRJMOD}/packages3D/SW_Cherry_MX_PCB.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 136:Remapping: ${KIPRJMOD}/packages3D/SW_Cherry_MX_PCB.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 45:Getting 3D models for footprint of: SW47
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 56:Trying to copy: ${KIPRJMOD}/packages3D/SW_Cherry_MX_PCB.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 132:Did not copy: ${KIPRJMOD}/packages3D/SW_Cherry_MX_PCB.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 136:Remapping: ${KIPRJMOD}/packages3D/SW_Cherry_MX_PCB.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 45:Getting 3D models for footprint of: SW73
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 56:Trying to copy: ${KIPRJMOD}/packages3D/SW_Cherry_MX_PCB.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 132:Did not copy: ${KIPRJMOD}/packages3D/SW_Cherry_MX_PCB.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 136:Remapping: ${KIPRJMOD}/packages3D/SW_Cherry_MX_PCB.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 45:Getting 3D models for footprint of: SW87
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 56:Trying to copy: ${KIPRJMOD}/packages3D/SW_Cherry_MX_PCB.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 132:Did not copy: ${KIPRJMOD}/packages3D/SW_Cherry_MX_PCB.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 136:Remapping: ${KIPRJMOD}/packages3D/SW_Cherry_MX_PCB.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 45:Getting 3D models for footprint of: SW12
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 56:Trying to copy: ${KIPRJMOD}/packages3D/SW_Cherry_MX_PCB.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 132:Did not copy: ${KIPRJMOD}/packages3D/SW_Cherry_MX_PCB.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 136:Remapping: ${KIPRJMOD}/packages3D/SW_Cherry_MX_PCB.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 45:Getting 3D models for footprint of: H8
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 45:Getting 3D models for footprint of: SW62
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 56:Trying to copy: ${KIPRJMOD}/packages3D/SW_Cherry_MX_PCB.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 132:Did not copy: ${KIPRJMOD}/packages3D/SW_Cherry_MX_PCB.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 136:Remapping: ${KIPRJMOD}/packages3D/SW_Cherry_MX_PCB.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 45:Getting 3D models for footprint of: H9
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 45:Getting 3D models for footprint of: SW22
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 56:Trying to copy: ${KIPRJMOD}/packages3D/SW_Cherry_MX_PCB.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 132:Did not copy: ${KIPRJMOD}/packages3D/SW_Cherry_MX_PCB.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 136:Remapping: ${KIPRJMOD}/packages3D/SW_Cherry_MX_PCB.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 45:Getting 3D models for footprint of: SW89
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 56:Trying to copy: ${KIPRJMOD}/packages3D/SW_Cherry_MX_PCB.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 132:Did not copy: ${KIPRJMOD}/packages3D/SW_Cherry_MX_PCB.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 136:Remapping: ${KIPRJMOD}/packages3D/SW_Cherry_MX_PCB.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 45:Getting 3D models for footprint of: H14
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 45:Getting 3D models for footprint of: SW76
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 56:Trying to copy: ${KIPRJMOD}/packages3D/SW_Cherry_MX_PCB.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 132:Did not copy: ${KIPRJMOD}/packages3D/SW_Cherry_MX_PCB.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 136:Remapping: ${KIPRJMOD}/packages3D/SW_Cherry_MX_PCB.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 45:Getting 3D models for footprint of: H1
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 45:Getting 3D models for footprint of: SW21
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 56:Trying to copy: ${KIPRJMOD}/packages3D/SW_Cherry_MX_PCB.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 132:Did not copy: ${KIPRJMOD}/packages3D/SW_Cherry_MX_PCB.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 136:Remapping: ${KIPRJMOD}/packages3D/SW_Cherry_MX_PCB.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 45:Getting 3D models for footprint of: SW82
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 56:Trying to copy: ${KIPRJMOD}/packages3D/SW_Cherry_MX_PCB.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 132:Did not copy: ${KIPRJMOD}/packages3D/SW_Cherry_MX_PCB.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 136:Remapping: ${KIPRJMOD}/packages3D/SW_Cherry_MX_PCB.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 45:Getting 3D models for footprint of: S9
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 56:Trying to copy: ${KIPRJMOD}/packages3D/Stabilizer_Cherry_MX_2.00u.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 132:Did not copy: ${KIPRJMOD}/packages3D/Stabilizer_Cherry_MX_2.00u.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 136:Remapping: ${KIPRJMOD}/packages3D/Stabilizer_Cherry_MX_2.00u.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 45:Getting 3D models for footprint of: SW91
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 56:Trying to copy: ${KIPRJMOD}/packages3D/SW_Cherry_MX_PCB.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 132:Did not copy: ${KIPRJMOD}/packages3D/SW_Cherry_MX_PCB.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 136:Remapping: ${KIPRJMOD}/packages3D/SW_Cherry_MX_PCB.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 45:Getting 3D models for footprint of: SW65
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 56:Trying to copy: ${KIPRJMOD}/packages3D/SW_Cherry_MX_PCB.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 132:Did not copy: ${KIPRJMOD}/packages3D/SW_Cherry_MX_PCB.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 136:Remapping: ${KIPRJMOD}/packages3D/SW_Cherry_MX_PCB.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 45:Getting 3D models for footprint of: SW96
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 56:Trying to copy: ${KIPRJMOD}/packages3D/SW_Cherry_MX_PCB.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 132:Did not copy: ${KIPRJMOD}/packages3D/SW_Cherry_MX_PCB.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 136:Remapping: ${KIPRJMOD}/packages3D/SW_Cherry_MX_PCB.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 45:Getting 3D models for footprint of: SW69
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 56:Trying to copy: ${KIPRJMOD}/packages3D/SW_Cherry_MX_PCB.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 132:Did not copy: ${KIPRJMOD}/packages3D/SW_Cherry_MX_PCB.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 136:Remapping: ${KIPRJMOD}/packages3D/SW_Cherry_MX_PCB.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 45:Getting 3D models for footprint of: SW34
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 56:Trying to copy: ${KIPRJMOD}/packages3D/SW_Cherry_MX_PCB.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 132:Did not copy: ${KIPRJMOD}/packages3D/SW_Cherry_MX_PCB.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 136:Remapping: ${KIPRJMOD}/packages3D/SW_Cherry_MX_PCB.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 45:Getting 3D models for footprint of: SW79
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 56:Trying to copy: ${KIPRJMOD}/packages3D/SW_Cherry_MX_PCB.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 132:Did not copy: ${KIPRJMOD}/packages3D/SW_Cherry_MX_PCB.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 136:Remapping: ${KIPRJMOD}/packages3D/SW_Cherry_MX_PCB.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 45:Getting 3D models for footprint of: SW60
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 56:Trying to copy: ${KIPRJMOD}/packages3D/SW_Cherry_MX_PCB.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 132:Did not copy: ${KIPRJMOD}/packages3D/SW_Cherry_MX_PCB.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 136:Remapping: ${KIPRJMOD}/packages3D/SW_Cherry_MX_PCB.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 45:Getting 3D models for footprint of: SW15
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 56:Trying to copy: ${KIPRJMOD}/packages3D/SW_Cherry_MX_PCB.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 132:Did not copy: ${KIPRJMOD}/packages3D/SW_Cherry_MX_PCB.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 136:Remapping: ${KIPRJMOD}/packages3D/SW_Cherry_MX_PCB.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 45:Getting 3D models for footprint of: SW39
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 56:Trying to copy: ${KIPRJMOD}/packages3D/SW_Cherry_MX_PCB.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 132:Did not copy: ${KIPRJMOD}/packages3D/SW_Cherry_MX_PCB.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 136:Remapping: ${KIPRJMOD}/packages3D/SW_Cherry_MX_PCB.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 45:Getting 3D models for footprint of: SW67
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 56:Trying to copy: ${KIPRJMOD}/packages3D/SW_Cherry_MX_PCB.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 132:Did not copy: ${KIPRJMOD}/packages3D/SW_Cherry_MX_PCB.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 136:Remapping: ${KIPRJMOD}/packages3D/SW_Cherry_MX_PCB.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 45:Getting 3D models for footprint of: H13
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 45:Getting 3D models for footprint of: H4
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 45:Getting 3D models for footprint of: SW72
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 56:Trying to copy: ${KIPRJMOD}/packages3D/SW_Cherry_MX_PCB.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 132:Did not copy: ${KIPRJMOD}/packages3D/SW_Cherry_MX_PCB.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 136:Remapping: ${KIPRJMOD}/packages3D/SW_Cherry_MX_PCB.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 45:Getting 3D models for footprint of: SW27
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 56:Trying to copy: ${KIPRJMOD}/packages3D/SW_Cherry_MX_PCB.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 132:Did not copy: ${KIPRJMOD}/packages3D/SW_Cherry_MX_PCB.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 136:Remapping: ${KIPRJMOD}/packages3D/SW_Cherry_MX_PCB.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 45:Getting 3D models for footprint of: SW95
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 56:Trying to copy: ${KIPRJMOD}/packages3D/SW_Cherry_MX_PCB.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 132:Did not copy: ${KIPRJMOD}/packages3D/SW_Cherry_MX_PCB.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 136:Remapping: ${KIPRJMOD}/packages3D/SW_Cherry_MX_PCB.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 45:Getting 3D models for footprint of: SW5
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 56:Trying to copy: ${KIPRJMOD}/packages3D/SW_Cherry_MX_PCB.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 132:Did not copy: ${KIPRJMOD}/packages3D/SW_Cherry_MX_PCB.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 136:Remapping: ${KIPRJMOD}/packages3D/SW_Cherry_MX_PCB.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 45:Getting 3D models for footprint of: SW80
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 56:Trying to copy: ${KIPRJMOD}/packages3D/SW_Cherry_MX_PCB.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 132:Did not copy: ${KIPRJMOD}/packages3D/SW_Cherry_MX_PCB.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 136:Remapping: ${KIPRJMOD}/packages3D/SW_Cherry_MX_PCB.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 45:Getting 3D models for footprint of: SW94
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 56:Trying to copy: ${KIPRJMOD}/packages3D/SW_Cherry_MX_PCB.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 132:Did not copy: ${KIPRJMOD}/packages3D/SW_Cherry_MX_PCB.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 136:Remapping: ${KIPRJMOD}/packages3D/SW_Cherry_MX_PCB.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 45:Getting 3D models for footprint of: SW26
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 56:Trying to copy: ${KIPRJMOD}/packages3D/SW_Cherry_MX_PCB.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 132:Did not copy: ${KIPRJMOD}/packages3D/SW_Cherry_MX_PCB.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 136:Remapping: ${KIPRJMOD}/packages3D/SW_Cherry_MX_PCB.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 45:Getting 3D models for footprint of: S3
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 56:Trying to copy: ${KIPRJMOD}/packages3D/Stabilizer_Cherry_MX_7.00u.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 132:Did not copy: ${KIPRJMOD}/packages3D/Stabilizer_Cherry_MX_7.00u.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 136:Remapping: ${KIPRJMOD}/packages3D/Stabilizer_Cherry_MX_7.00u.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 45:Getting 3D models for footprint of: SW46
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 56:Trying to copy: ${KIPRJMOD}/packages3D/SW_Cherry_MX_PCB.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 132:Did not copy: ${KIPRJMOD}/packages3D/SW_Cherry_MX_PCB.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 136:Remapping: ${KIPRJMOD}/packages3D/SW_Cherry_MX_PCB.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 45:Getting 3D models for footprint of: SW98
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 56:Trying to copy: ${KIPRJMOD}/packages3D/SW_Cherry_MX_PCB.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 132:Did not copy: ${KIPRJMOD}/packages3D/SW_Cherry_MX_PCB.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 136:Remapping: ${KIPRJMOD}/packages3D/SW_Cherry_MX_PCB.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 45:Getting 3D models for footprint of: SW61
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 56:Trying to copy: ${KIPRJMOD}/packages3D/SW_Cherry_MX_PCB.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 132:Did not copy: ${KIPRJMOD}/packages3D/SW_Cherry_MX_PCB.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 136:Remapping: ${KIPRJMOD}/packages3D/SW_Cherry_MX_PCB.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 45:Getting 3D models for footprint of: SW11
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 56:Trying to copy: ${KIPRJMOD}/packages3D/SW_Cherry_MX_PCB.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 132:Did not copy: ${KIPRJMOD}/packages3D/SW_Cherry_MX_PCB.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 136:Remapping: ${KIPRJMOD}/packages3D/SW_Cherry_MX_PCB.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 45:Getting 3D models for footprint of: SW43
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 56:Trying to copy: ${KIPRJMOD}/packages3D/SW_Cherry_MX_PCB.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 132:Did not copy: ${KIPRJMOD}/packages3D/SW_Cherry_MX_PCB.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 136:Remapping: ${KIPRJMOD}/packages3D/SW_Cherry_MX_PCB.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 45:Getting 3D models for footprint of: H12
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 45:Getting 3D models for footprint of: SW85
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 56:Trying to copy: ${KIPRJMOD}/packages3D/SW_Cherry_MX_PCB.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 132:Did not copy: ${KIPRJMOD}/packages3D/SW_Cherry_MX_PCB.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 136:Remapping: ${KIPRJMOD}/packages3D/SW_Cherry_MX_PCB.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 45:Getting 3D models for footprint of: SW53
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 56:Trying to copy: ${KIPRJMOD}/packages3D/SW_Cherry_MX_PCB.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 132:Did not copy: ${KIPRJMOD}/packages3D/SW_Cherry_MX_PCB.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 136:Remapping: ${KIPRJMOD}/packages3D/SW_Cherry_MX_PCB.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 45:Getting 3D models for footprint of: SW32
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 56:Trying to copy: ${KIPRJMOD}/packages3D/SW_Cherry_MX_PCB.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 132:Did not copy: ${KIPRJMOD}/packages3D/SW_Cherry_MX_PCB.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 136:Remapping: ${KIPRJMOD}/packages3D/SW_Cherry_MX_PCB.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 45:Getting 3D models for footprint of: SW36
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 56:Trying to copy: ${KIPRJMOD}/packages3D/SW_Cherry_MX_PCB.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 132:Did not copy: ${KIPRJMOD}/packages3D/SW_Cherry_MX_PCB.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 136:Remapping: ${KIPRJMOD}/packages3D/SW_Cherry_MX_PCB.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 45:Getting 3D models for footprint of: H6
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 45:Getting 3D models for footprint of: SW71
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 56:Trying to copy: ${KIPRJMOD}/packages3D/SW_Cherry_MX_PCB.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 132:Did not copy: ${KIPRJMOD}/packages3D/SW_Cherry_MX_PCB.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 136:Remapping: ${KIPRJMOD}/packages3D/SW_Cherry_MX_PCB.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 45:Getting 3D models for footprint of: SW64
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 56:Trying to copy: ${KIPRJMOD}/packages3D/SW_Cherry_MX_PCB.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 132:Did not copy: ${KIPRJMOD}/packages3D/SW_Cherry_MX_PCB.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 136:Remapping: ${KIPRJMOD}/packages3D/SW_Cherry_MX_PCB.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 45:Getting 3D models for footprint of: SW88
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 56:Trying to copy: ${KIPRJMOD}/packages3D/SW_Cherry_MX_PCB.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 132:Did not copy: ${KIPRJMOD}/packages3D/SW_Cherry_MX_PCB.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 136:Remapping: ${KIPRJMOD}/packages3D/SW_Cherry_MX_PCB.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 45:Getting 3D models for footprint of: SW29
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 56:Trying to copy: ${KIPRJMOD}/packages3D/SW_Cherry_MX_PCB.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 132:Did not copy: ${KIPRJMOD}/packages3D/SW_Cherry_MX_PCB.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 136:Remapping: ${KIPRJMOD}/packages3D/SW_Cherry_MX_PCB.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 45:Getting 3D models for footprint of: SW99
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 56:Trying to copy: ${KIPRJMOD}/packages3D/SW_Cherry_MX_PCB.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 132:Did not copy: ${KIPRJMOD}/packages3D/SW_Cherry_MX_PCB.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 136:Remapping: ${KIPRJMOD}/packages3D/SW_Cherry_MX_PCB.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 45:Getting 3D models for footprint of: SW17
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 56:Trying to copy: ${KIPRJMOD}/packages3D/SW_Cherry_MX_PCB.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 132:Did not copy: ${KIPRJMOD}/packages3D/SW_Cherry_MX_PCB.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 136:Remapping: ${KIPRJMOD}/packages3D/SW_Cherry_MX_PCB.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 45:Getting 3D models for footprint of: SW55
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 56:Trying to copy: ${KIPRJMOD}/packages3D/SW_Cherry_MX_PCB.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 132:Did not copy: ${KIPRJMOD}/packages3D/SW_Cherry_MX_PCB.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 136:Remapping: ${KIPRJMOD}/packages3D/SW_Cherry_MX_PCB.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 45:Getting 3D models for footprint of: SW25
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 56:Trying to copy: ${KIPRJMOD}/packages3D/SW_Cherry_MX_PCB.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 132:Did not copy: ${KIPRJMOD}/packages3D/SW_Cherry_MX_PCB.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 136:Remapping: ${KIPRJMOD}/packages3D/SW_Cherry_MX_PCB.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 45:Getting 3D models for footprint of: SW9
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 56:Trying to copy: ${KIPRJMOD}/packages3D/SW_Cherry_MX_PCB.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 132:Did not copy: ${KIPRJMOD}/packages3D/SW_Cherry_MX_PCB.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 136:Remapping: ${KIPRJMOD}/packages3D/SW_Cherry_MX_PCB.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 45:Getting 3D models for footprint of: SW57
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 56:Trying to copy: ${KIPRJMOD}/packages3D/SW_Cherry_MX_PCB.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 132:Did not copy: ${KIPRJMOD}/packages3D/SW_Cherry_MX_PCB.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 136:Remapping: ${KIPRJMOD}/packages3D/SW_Cherry_MX_PCB.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 45:Getting 3D models for footprint of: SW59
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 56:Trying to copy: ${KIPRJMOD}/packages3D/SW_Cherry_MX_PCB.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 132:Did not copy: ${KIPRJMOD}/packages3D/SW_Cherry_MX_PCB.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 136:Remapping: ${KIPRJMOD}/packages3D/SW_Cherry_MX_PCB.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 45:Getting 3D models for footprint of: SW8
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 56:Trying to copy: ${KIPRJMOD}/packages3D/SW_Cherry_MX_PCB.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 132:Did not copy: ${KIPRJMOD}/packages3D/SW_Cherry_MX_PCB.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 136:Remapping: ${KIPRJMOD}/packages3D/SW_Cherry_MX_PCB.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 45:Getting 3D models for footprint of: SW13
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 56:Trying to copy: ${KIPRJMOD}/packages3D/SW_Cherry_MX_PCB.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 132:Did not copy: ${KIPRJMOD}/packages3D/SW_Cherry_MX_PCB.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 136:Remapping: ${KIPRJMOD}/packages3D/SW_Cherry_MX_PCB.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 45:Getting 3D models for footprint of: SW90
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 56:Trying to copy: ${KIPRJMOD}/packages3D/SW_Cherry_MX_PCB.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 132:Did not copy: ${KIPRJMOD}/packages3D/SW_Cherry_MX_PCB.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 136:Remapping: ${KIPRJMOD}/packages3D/SW_Cherry_MX_PCB.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 45:Getting 3D models for footprint of: SW66
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 56:Trying to copy: ${KIPRJMOD}/packages3D/SW_Cherry_MX_PCB.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 132:Did not copy: ${KIPRJMOD}/packages3D/SW_Cherry_MX_PCB.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 136:Remapping: ${KIPRJMOD}/packages3D/SW_Cherry_MX_PCB.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 45:Getting 3D models for footprint of: D11
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 56:Trying to copy: ${KIPRJMOD}/packages3D/D_SOD-123.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 136:Remapping: ${KIPRJMOD}/packages3D/D_SOD-123.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 45:Getting 3D models for footprint of: F2
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 56:Trying to copy: ${KIPRJMOD}/packages3D/Fuse_1206_3216Metric.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 136:Remapping: ${KIPRJMOD}/packages3D/Fuse_1206_3216Metric.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 45:Getting 3D models for footprint of: D15
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 56:Trying to copy: ${KIPRJMOD}/packages3D/D_SOD-123.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 136:Remapping: ${KIPRJMOD}/packages3D/D_SOD-123.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 45:Getting 3D models for footprint of: D56
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 56:Trying to copy: ${KIPRJMOD}/packages3D/D_SOD-123.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 136:Remapping: ${KIPRJMOD}/packages3D/D_SOD-123.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 45:Getting 3D models for footprint of: D67
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 56:Trying to copy: ${KIPRJMOD}/packages3D/D_SOD-123.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 136:Remapping: ${KIPRJMOD}/packages3D/D_SOD-123.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 45:Getting 3D models for footprint of: D28
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 56:Trying to copy: ${KIPRJMOD}/packages3D/D_SOD-123.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 136:Remapping: ${KIPRJMOD}/packages3D/D_SOD-123.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 45:Getting 3D models for footprint of: J3
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 56:Trying to copy: ${KIPRJMOD}/packages3D/78171-0004.stp
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 136:Remapping: ${KIPRJMOD}/packages3D/78171-0004.stp
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 56:Trying to copy: ${KIPRJMOD}/packages3D/78171-0004.stp
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 136:Remapping: ${KIPRJMOD}/packages3D/78171-0004.stp
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 45:Getting 3D models for footprint of: D57
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 56:Trying to copy: ${KIPRJMOD}/packages3D/D_SOD-123.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 136:Remapping: ${KIPRJMOD}/packages3D/D_SOD-123.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 45:Getting 3D models for footprint of: D83
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 56:Trying to copy: ${KIPRJMOD}/packages3D/D_SOD-123.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 136:Remapping: ${KIPRJMOD}/packages3D/D_SOD-123.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 45:Getting 3D models for footprint of: D73
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 56:Trying to copy: ${KIPRJMOD}/packages3D/D_SOD-123.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 136:Remapping: ${KIPRJMOD}/packages3D/D_SOD-123.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 45:Getting 3D models for footprint of: D80
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 56:Trying to copy: ${KIPRJMOD}/packages3D/D_SOD-123.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 136:Remapping: ${KIPRJMOD}/packages3D/D_SOD-123.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 45:Getting 3D models for footprint of: U4
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 56:Trying to copy: ${KIPRJMOD}/packages3D/QFN-56-1EP_7x7mm_P0.4mm_EP5.6x5.6mm.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 136:Remapping: ${KIPRJMOD}/packages3D/QFN-56-1EP_7x7mm_P0.4mm_EP5.6x5.6mm.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 45:Getting 3D models for footprint of: D47
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 56:Trying to copy: ${KIPRJMOD}/packages3D/D_SOD-123.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 136:Remapping: ${KIPRJMOD}/packages3D/D_SOD-123.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 45:Getting 3D models for footprint of: D39
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 56:Trying to copy: ${KIPRJMOD}/packages3D/D_SOD-123.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 136:Remapping: ${KIPRJMOD}/packages3D/D_SOD-123.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 45:Getting 3D models for footprint of: D27
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 56:Trying to copy: ${KIPRJMOD}/packages3D/D_SOD-123.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 136:Remapping: ${KIPRJMOD}/packages3D/D_SOD-123.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 45:Getting 3D models for footprint of: D64
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 56:Trying to copy: ${KIPRJMOD}/packages3D/D_SOD-123.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 136:Remapping: ${KIPRJMOD}/packages3D/D_SOD-123.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 45:Getting 3D models for footprint of: D42
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 56:Trying to copy: ${KIPRJMOD}/packages3D/D_SOD-123.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 136:Remapping: ${KIPRJMOD}/packages3D/D_SOD-123.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 45:Getting 3D models for footprint of: D33
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 56:Trying to copy: ${KIPRJMOD}/packages3D/D_SOD-123.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 136:Remapping: ${KIPRJMOD}/packages3D/D_SOD-123.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 45:Getting 3D models for footprint of: R4
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 56:Trying to copy: ${KIPRJMOD}/packages3D/R_0402_1005Metric.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 136:Remapping: ${KIPRJMOD}/packages3D/R_0402_1005Metric.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 45:Getting 3D models for footprint of: D76
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 56:Trying to copy: ${KIPRJMOD}/packages3D/D_SOD-123.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 136:Remapping: ${KIPRJMOD}/packages3D/D_SOD-123.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 45:Getting 3D models for footprint of: D43
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 56:Trying to copy: ${KIPRJMOD}/packages3D/D_SOD-123.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 136:Remapping: ${KIPRJMOD}/packages3D/D_SOD-123.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 45:Getting 3D models for footprint of: J2
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 56:Trying to copy: ${KIPRJMOD}/packages3D/PinHeader_1x05_P2.54mm_Vertical.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 136:Remapping: ${KIPRJMOD}/packages3D/PinHeader_1x05_P2.54mm_Vertical.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 45:Getting 3D models for footprint of: R7
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 56:Trying to copy: ${KIPRJMOD}/packages3D/R_0402_1005Metric.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 136:Remapping: ${KIPRJMOD}/packages3D/R_0402_1005Metric.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 45:Getting 3D models for footprint of: C10
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 56:Trying to copy: ${KIPRJMOD}/packages3D/C_0402_1005Metric.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 136:Remapping: ${KIPRJMOD}/packages3D/C_0402_1005Metric.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 45:Getting 3D models for footprint of: D69
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 56:Trying to copy: ${KIPRJMOD}/packages3D/D_SOD-123.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 136:Remapping: ${KIPRJMOD}/packages3D/D_SOD-123.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 45:Getting 3D models for footprint of: D63
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 56:Trying to copy: ${KIPRJMOD}/packages3D/D_SOD-123.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 136:Remapping: ${KIPRJMOD}/packages3D/D_SOD-123.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 45:Getting 3D models for footprint of: D93
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 45:Getting 3D models for footprint of: D14
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 56:Trying to copy: ${KIPRJMOD}/packages3D/D_SOD-123.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 136:Remapping: ${KIPRJMOD}/packages3D/D_SOD-123.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 45:Getting 3D models for footprint of: D34
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 56:Trying to copy: ${KIPRJMOD}/packages3D/D_SOD-123.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 136:Remapping: ${KIPRJMOD}/packages3D/D_SOD-123.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 45:Getting 3D models for footprint of: D84
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 56:Trying to copy: ${KIPRJMOD}/packages3D/D_SOD-123.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 136:Remapping: ${KIPRJMOD}/packages3D/D_SOD-123.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 45:Getting 3D models for footprint of: D52
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 56:Trying to copy: ${KIPRJMOD}/packages3D/D_SOD-123.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 136:Remapping: ${KIPRJMOD}/packages3D/D_SOD-123.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 45:Getting 3D models for footprint of: D88
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 56:Trying to copy: ${KIPRJMOD}/packages3D/D_SOD-123.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 136:Remapping: ${KIPRJMOD}/packages3D/D_SOD-123.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 45:Getting 3D models for footprint of: D85
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 56:Trying to copy: ${KIPRJMOD}/packages3D/D_SOD-123.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 136:Remapping: ${KIPRJMOD}/packages3D/D_SOD-123.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 45:Getting 3D models for footprint of: C2
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 56:Trying to copy: ${KIPRJMOD}/packages3D/C_0402_1005Metric.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 136:Remapping: ${KIPRJMOD}/packages3D/C_0402_1005Metric.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 45:Getting 3D models for footprint of: D23
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 56:Trying to copy: ${KIPRJMOD}/packages3D/D_SOD-123.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 136:Remapping: ${KIPRJMOD}/packages3D/D_SOD-123.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 45:Getting 3D models for footprint of: D89
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 56:Trying to copy: ${KIPRJMOD}/packages3D/D_SOD-123.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 136:Remapping: ${KIPRJMOD}/packages3D/D_SOD-123.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 45:Getting 3D models for footprint of: D86
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 56:Trying to copy: ${KIPRJMOD}/packages3D/D_SOD-123.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 136:Remapping: ${KIPRJMOD}/packages3D/D_SOD-123.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 45:Getting 3D models for footprint of: D6
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 56:Trying to copy: ${KIPRJMOD}/packages3D/D_SOD-123.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 136:Remapping: ${KIPRJMOD}/packages3D/D_SOD-123.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 45:Getting 3D models for footprint of: D48
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 56:Trying to copy: ${KIPRJMOD}/packages3D/D_SOD-123.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 136:Remapping: ${KIPRJMOD}/packages3D/D_SOD-123.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 45:Getting 3D models for footprint of: D78
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 56:Trying to copy: ${KIPRJMOD}/packages3D/D_SOD-123.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 136:Remapping: ${KIPRJMOD}/packages3D/D_SOD-123.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 45:Getting 3D models for footprint of: D92
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 45:Getting 3D models for footprint of: R6
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 56:Trying to copy: ${KIPRJMOD}/packages3D/R_0402_1005Metric.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 136:Remapping: ${KIPRJMOD}/packages3D/R_0402_1005Metric.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 45:Getting 3D models for footprint of: C6
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 56:Trying to copy: ${KIPRJMOD}/packages3D/C_0402_1005Metric.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 136:Remapping: ${KIPRJMOD}/packages3D/C_0402_1005Metric.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 45:Getting 3D models for footprint of: D20
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 56:Trying to copy: ${KIPRJMOD}/packages3D/D_SOD-123.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 136:Remapping: ${KIPRJMOD}/packages3D/D_SOD-123.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 45:Getting 3D models for footprint of: D74
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 56:Trying to copy: ${KIPRJMOD}/packages3D/D_SOD-123.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 136:Remapping: ${KIPRJMOD}/packages3D/D_SOD-123.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 45:Getting 3D models for footprint of: D79
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 56:Trying to copy: ${KIPRJMOD}/packages3D/D_SOD-123.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 136:Remapping: ${KIPRJMOD}/packages3D/D_SOD-123.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 45:Getting 3D models for footprint of: D58
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 56:Trying to copy: ${KIPRJMOD}/packages3D/D_SOD-123.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 136:Remapping: ${KIPRJMOD}/packages3D/D_SOD-123.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 45:Getting 3D models for footprint of: D71
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 56:Trying to copy: ${KIPRJMOD}/packages3D/D_SOD-123.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 136:Remapping: ${KIPRJMOD}/packages3D/D_SOD-123.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 45:Getting 3D models for footprint of: D8
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 56:Trying to copy: ${KIPRJMOD}/packages3D/D_SOD-123.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 136:Remapping: ${KIPRJMOD}/packages3D/D_SOD-123.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 45:Getting 3D models for footprint of: D10
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 56:Trying to copy: ${KIPRJMOD}/packages3D/D_SOD-123.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 136:Remapping: ${KIPRJMOD}/packages3D/D_SOD-123.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 45:Getting 3D models for footprint of: D81
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 56:Trying to copy: ${KIPRJMOD}/packages3D/D_SOD-123.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 136:Remapping: ${KIPRJMOD}/packages3D/D_SOD-123.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 45:Getting 3D models for footprint of: C4
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 56:Trying to copy: ${KIPRJMOD}/packages3D/C_0402_1005Metric.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 136:Remapping: ${KIPRJMOD}/packages3D/C_0402_1005Metric.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 45:Getting 3D models for footprint of: C11
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 56:Trying to copy: ${KIPRJMOD}/packages3D/C_0402_1005Metric.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 136:Remapping: ${KIPRJMOD}/packages3D/C_0402_1005Metric.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 45:Getting 3D models for footprint of: C3
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 56:Trying to copy: ${KIPRJMOD}/packages3D/C_0402_1005Metric.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 136:Remapping: ${KIPRJMOD}/packages3D/C_0402_1005Metric.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 45:Getting 3D models for footprint of: R2
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 56:Trying to copy: ${KIPRJMOD}/packages3D/R_0402_1005Metric.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 136:Remapping: ${KIPRJMOD}/packages3D/R_0402_1005Metric.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 45:Getting 3D models for footprint of: D7
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 56:Trying to copy: ${KIPRJMOD}/packages3D/D_SOD-123.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 136:Remapping: ${KIPRJMOD}/packages3D/D_SOD-123.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 45:Getting 3D models for footprint of: D50
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 56:Trying to copy: ${KIPRJMOD}/packages3D/D_SOD-123.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 136:Remapping: ${KIPRJMOD}/packages3D/D_SOD-123.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 45:Getting 3D models for footprint of: C8
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 56:Trying to copy: ${KIPRJMOD}/packages3D/C_0402_1005Metric.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 136:Remapping: ${KIPRJMOD}/packages3D/C_0402_1005Metric.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 45:Getting 3D models for footprint of: D24
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 56:Trying to copy: ${KIPRJMOD}/packages3D/D_SOD-123.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 136:Remapping: ${KIPRJMOD}/packages3D/D_SOD-123.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 45:Getting 3D models for footprint of: C9
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 56:Trying to copy: ${KIPRJMOD}/packages3D/C_0402_1005Metric.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 136:Remapping: ${KIPRJMOD}/packages3D/C_0402_1005Metric.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 45:Getting 3D models for footprint of: D46
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 56:Trying to copy: ${KIPRJMOD}/packages3D/D_SOD-123.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 136:Remapping: ${KIPRJMOD}/packages3D/D_SOD-123.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 45:Getting 3D models for footprint of: D70
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 56:Trying to copy: ${KIPRJMOD}/packages3D/D_SOD-123.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 136:Remapping: ${KIPRJMOD}/packages3D/D_SOD-123.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 45:Getting 3D models for footprint of: D68
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 56:Trying to copy: ${KIPRJMOD}/packages3D/D_SOD-123.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 136:Remapping: ${KIPRJMOD}/packages3D/D_SOD-123.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 45:Getting 3D models for footprint of: U3
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 56:Trying to copy: ${KIPRJMOD}/packages3D/SOT-23-6.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 136:Remapping: ${KIPRJMOD}/packages3D/SOT-23-6.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 45:Getting 3D models for footprint of: D38
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 56:Trying to copy: ${KIPRJMOD}/packages3D/D_SOD-123.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 136:Remapping: ${KIPRJMOD}/packages3D/D_SOD-123.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 45:Getting 3D models for footprint of: D91
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 56:Trying to copy: ${KIPRJMOD}/packages3D/D_SOD-123.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 136:Remapping: ${KIPRJMOD}/packages3D/D_SOD-123.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 45:Getting 3D models for footprint of: R5
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 56:Trying to copy: ${KIPRJMOD}/packages3D/R_0402_1005Metric.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 136:Remapping: ${KIPRJMOD}/packages3D/R_0402_1005Metric.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 45:Getting 3D models for footprint of: D25
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 56:Trying to copy: ${KIPRJMOD}/packages3D/D_SOD-123.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 136:Remapping: ${KIPRJMOD}/packages3D/D_SOD-123.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 45:Getting 3D models for footprint of: D5
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 56:Trying to copy: ${KIPRJMOD}/packages3D/D_SOD-123.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 136:Remapping: ${KIPRJMOD}/packages3D/D_SOD-123.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 45:Getting 3D models for footprint of: D90
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 56:Trying to copy: ${KIPRJMOD}/packages3D/D_SOD-123.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 136:Remapping: ${KIPRJMOD}/packages3D/D_SOD-123.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 45:Getting 3D models for footprint of: D87
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 56:Trying to copy: ${KIPRJMOD}/packages3D/D_SOD-123.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 136:Remapping: ${KIPRJMOD}/packages3D/D_SOD-123.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 45:Getting 3D models for footprint of: D1
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 56:Trying to copy: ${KIPRJMOD}/packages3D/D_SOD-123.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 136:Remapping: ${KIPRJMOD}/packages3D/D_SOD-123.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 45:Getting 3D models for footprint of: D77
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 56:Trying to copy: ${KIPRJMOD}/packages3D/D_SOD-123.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 136:Remapping: ${KIPRJMOD}/packages3D/D_SOD-123.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 45:Getting 3D models for footprint of: D17
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 56:Trying to copy: ${KIPRJMOD}/packages3D/D_SOD-123.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 136:Remapping: ${KIPRJMOD}/packages3D/D_SOD-123.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 45:Getting 3D models for footprint of: D54
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 56:Trying to copy: ${KIPRJMOD}/packages3D/D_SOD-123.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 136:Remapping: ${KIPRJMOD}/packages3D/D_SOD-123.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 45:Getting 3D models for footprint of: D59
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 56:Trying to copy: ${KIPRJMOD}/packages3D/D_SOD-123.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 136:Remapping: ${KIPRJMOD}/packages3D/D_SOD-123.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 45:Getting 3D models for footprint of: D94
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 45:Getting 3D models for footprint of: D3
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 56:Trying to copy: ${KIPRJMOD}/packages3D/D_SOD-123.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 136:Remapping: ${KIPRJMOD}/packages3D/D_SOD-123.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 45:Getting 3D models for footprint of: D32
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 56:Trying to copy: ${KIPRJMOD}/packages3D/D_SOD-123.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 136:Remapping: ${KIPRJMOD}/packages3D/D_SOD-123.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 45:Getting 3D models for footprint of: D26
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 56:Trying to copy: ${KIPRJMOD}/packages3D/D_SOD-123.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 136:Remapping: ${KIPRJMOD}/packages3D/D_SOD-123.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 45:Getting 3D models for footprint of: C5
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 56:Trying to copy: ${KIPRJMOD}/packages3D/C_0402_1005Metric.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 136:Remapping: ${KIPRJMOD}/packages3D/C_0402_1005Metric.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 45:Getting 3D models for footprint of: C1
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 56:Trying to copy: ${KIPRJMOD}/packages3D/C_0402_1005Metric.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 136:Remapping: ${KIPRJMOD}/packages3D/C_0402_1005Metric.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 45:Getting 3D models for footprint of: D41
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 56:Trying to copy: ${KIPRJMOD}/packages3D/D_SOD-123.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 136:Remapping: ${KIPRJMOD}/packages3D/D_SOD-123.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 45:Getting 3D models for footprint of: D53
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 56:Trying to copy: ${KIPRJMOD}/packages3D/D_SOD-123.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 136:Remapping: ${KIPRJMOD}/packages3D/D_SOD-123.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 45:Getting 3D models for footprint of: D82
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 56:Trying to copy: ${KIPRJMOD}/packages3D/D_SOD-123.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 136:Remapping: ${KIPRJMOD}/packages3D/D_SOD-123.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 45:Getting 3D models for footprint of: C17
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 56:Trying to copy: ${KIPRJMOD}/packages3D/C_0402_1005Metric.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 136:Remapping: ${KIPRJMOD}/packages3D/C_0402_1005Metric.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 45:Getting 3D models for footprint of: C15
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 56:Trying to copy: ${KIPRJMOD}/packages3D/C_0402_1005Metric.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 136:Remapping: ${KIPRJMOD}/packages3D/C_0402_1005Metric.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 45:Getting 3D models for footprint of: D2
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 56:Trying to copy: ${KIPRJMOD}/packages3D/D_SOD-123.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 136:Remapping: ${KIPRJMOD}/packages3D/D_SOD-123.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 45:Getting 3D models for footprint of: D45
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 56:Trying to copy: ${KIPRJMOD}/packages3D/D_SOD-123.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 136:Remapping: ${KIPRJMOD}/packages3D/D_SOD-123.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 45:Getting 3D models for footprint of: R1
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 56:Trying to copy: ${KIPRJMOD}/packages3D/R_0402_1005Metric.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 136:Remapping: ${KIPRJMOD}/packages3D/R_0402_1005Metric.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 45:Getting 3D models for footprint of: D37
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 56:Trying to copy: ${KIPRJMOD}/packages3D/D_SOD-123.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 136:Remapping: ${KIPRJMOD}/packages3D/D_SOD-123.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 45:Getting 3D models for footprint of: C16
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 56:Trying to copy: ${KIPRJMOD}/packages3D/C_0402_1005Metric.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 136:Remapping: ${KIPRJMOD}/packages3D/C_0402_1005Metric.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 45:Getting 3D models for footprint of: D51
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 56:Trying to copy: ${KIPRJMOD}/packages3D/D_SOD-123.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 136:Remapping: ${KIPRJMOD}/packages3D/D_SOD-123.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 45:Getting 3D models for footprint of: D72
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 56:Trying to copy: ${KIPRJMOD}/packages3D/D_SOD-123.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 136:Remapping: ${KIPRJMOD}/packages3D/D_SOD-123.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 45:Getting 3D models for footprint of: D75
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 56:Trying to copy: ${KIPRJMOD}/packages3D/D_SOD-123.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 136:Remapping: ${KIPRJMOD}/packages3D/D_SOD-123.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 45:Getting 3D models for footprint of: C7
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 56:Trying to copy: ${KIPRJMOD}/packages3D/C_0402_1005Metric.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 136:Remapping: ${KIPRJMOD}/packages3D/C_0402_1005Metric.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 45:Getting 3D models for footprint of: D18
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 56:Trying to copy: ${KIPRJMOD}/packages3D/D_SOD-123.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 136:Remapping: ${KIPRJMOD}/packages3D/D_SOD-123.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 45:Getting 3D models for footprint of: D62
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 56:Trying to copy: ${KIPRJMOD}/packages3D/D_SOD-123.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 136:Remapping: ${KIPRJMOD}/packages3D/D_SOD-123.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 45:Getting 3D models for footprint of: D40
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 56:Trying to copy: ${KIPRJMOD}/packages3D/D_SOD-123.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 136:Remapping: ${KIPRJMOD}/packages3D/D_SOD-123.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 45:Getting 3D models for footprint of: C13
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 56:Trying to copy: ${KIPRJMOD}/packages3D/C_0402_1005Metric.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 136:Remapping: ${KIPRJMOD}/packages3D/C_0402_1005Metric.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 45:Getting 3D models for footprint of: D12
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 56:Trying to copy: ${KIPRJMOD}/packages3D/D_SOD-123.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 136:Remapping: ${KIPRJMOD}/packages3D/D_SOD-123.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 45:Getting 3D models for footprint of: D65
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 56:Trying to copy: ${KIPRJMOD}/packages3D/D_SOD-123.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 136:Remapping: ${KIPRJMOD}/packages3D/D_SOD-123.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 45:Getting 3D models for footprint of: D30
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 56:Trying to copy: ${KIPRJMOD}/packages3D/D_SOD-123.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 136:Remapping: ${KIPRJMOD}/packages3D/D_SOD-123.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 45:Getting 3D models for footprint of: D22
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 56:Trying to copy: ${KIPRJMOD}/packages3D/D_SOD-123.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 136:Remapping: ${KIPRJMOD}/packages3D/D_SOD-123.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 45:Getting 3D models for footprint of: C14
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 56:Trying to copy: ${KIPRJMOD}/packages3D/C_0402_1005Metric.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 136:Remapping: ${KIPRJMOD}/packages3D/C_0402_1005Metric.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 45:Getting 3D models for footprint of: D60
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 56:Trying to copy: ${KIPRJMOD}/packages3D/D_SOD-123.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 136:Remapping: ${KIPRJMOD}/packages3D/D_SOD-123.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 45:Getting 3D models for footprint of: D4
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 56:Trying to copy: ${KIPRJMOD}/packages3D/D_SOD-123.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 136:Remapping: ${KIPRJMOD}/packages3D/D_SOD-123.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 45:Getting 3D models for footprint of: SW1
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 56:Trying to copy: ${KIPRJMOD}/packages3D/SW_SPST_TL3342.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 136:Remapping: ${KIPRJMOD}/packages3D/SW_SPST_TL3342.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 45:Getting 3D models for footprint of: D19
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 56:Trying to copy: ${KIPRJMOD}/packages3D/D_SOD-123.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 136:Remapping: ${KIPRJMOD}/packages3D/D_SOD-123.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 45:Getting 3D models for footprint of: C12
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 56:Trying to copy: ${KIPRJMOD}/packages3D/C_0402_1005Metric.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 136:Remapping: ${KIPRJMOD}/packages3D/C_0402_1005Metric.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 45:Getting 3D models for footprint of: D66
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 56:Trying to copy: ${KIPRJMOD}/packages3D/D_SOD-123.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 136:Remapping: ${KIPRJMOD}/packages3D/D_SOD-123.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 45:Getting 3D models for footprint of: R3
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 56:Trying to copy: ${KIPRJMOD}/packages3D/R_0402_1005Metric.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 136:Remapping: ${KIPRJMOD}/packages3D/R_0402_1005Metric.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 45:Getting 3D models for footprint of: D44
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 56:Trying to copy: ${KIPRJMOD}/packages3D/D_SOD-123.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 136:Remapping: ${KIPRJMOD}/packages3D/D_SOD-123.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 45:Getting 3D models for footprint of: D49
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 56:Trying to copy: ${KIPRJMOD}/packages3D/D_SOD-123.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 136:Remapping: ${KIPRJMOD}/packages3D/D_SOD-123.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 45:Getting 3D models for footprint of: D31
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 56:Trying to copy: ${KIPRJMOD}/packages3D/D_SOD-123.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 136:Remapping: ${KIPRJMOD}/packages3D/D_SOD-123.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 45:Getting 3D models for footprint of: Y1
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 56:Trying to copy: ${KIPRJMOD}/packages3D/Crystal_SMD_3225-4Pin_3.2x2.5mm.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 136:Remapping: ${KIPRJMOD}/packages3D/Crystal_SMD_3225-4Pin_3.2x2.5mm.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 45:Getting 3D models for footprint of: D29
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 56:Trying to copy: ${KIPRJMOD}/packages3D/D_SOD-123.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 136:Remapping: ${KIPRJMOD}/packages3D/D_SOD-123.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 45:Getting 3D models for footprint of: D35
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 56:Trying to copy: ${KIPRJMOD}/packages3D/D_SOD-123.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 136:Remapping: ${KIPRJMOD}/packages3D/D_SOD-123.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 45:Getting 3D models for footprint of: D21
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 56:Trying to copy: ${KIPRJMOD}/packages3D/D_SOD-123.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 136:Remapping: ${KIPRJMOD}/packages3D/D_SOD-123.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 45:Getting 3D models for footprint of: U1
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 56:Trying to copy: ${KIPRJMOD}/packages3D/SOT-23.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 136:Remapping: ${KIPRJMOD}/packages3D/SOT-23.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 45:Getting 3D models for footprint of: D36
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 56:Trying to copy: ${KIPRJMOD}/packages3D/D_SOD-123.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 136:Remapping: ${KIPRJMOD}/packages3D/D_SOD-123.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 45:Getting 3D models for footprint of: R8
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 56:Trying to copy: ${KIPRJMOD}/packages3D/R_0402_1005Metric.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 136:Remapping: ${KIPRJMOD}/packages3D/R_0402_1005Metric.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 45:Getting 3D models for footprint of: D16
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 56:Trying to copy: ${KIPRJMOD}/packages3D/D_SOD-123.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 136:Remapping: ${KIPRJMOD}/packages3D/D_SOD-123.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 45:Getting 3D models for footprint of: D13
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 56:Trying to copy: ${KIPRJMOD}/packages3D/D_SOD-123.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 136:Remapping: ${KIPRJMOD}/packages3D/D_SOD-123.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 45:Getting 3D models for footprint of: D55
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 56:Trying to copy: ${KIPRJMOD}/packages3D/D_SOD-123.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 136:Remapping: ${KIPRJMOD}/packages3D/D_SOD-123.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 45:Getting 3D models for footprint of: D9
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 56:Trying to copy: ${KIPRJMOD}/packages3D/D_SOD-123.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 136:Remapping: ${KIPRJMOD}/packages3D/D_SOD-123.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 45:Getting 3D models for footprint of: U2
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 56:Trying to copy: ${KIPRJMOD}/packages3D/W25Q16JVUXIQ.stp
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 136:Remapping: ${KIPRJMOD}/packages3D/W25Q16JVUXIQ.stp
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 45:Getting 3D models for footprint of: D61
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 56:Trying to copy: ${KIPRJMOD}/packages3D/D_SOD-123.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 136:Remapping: ${KIPRJMOD}/packages3D/D_SOD-123.wrl
+07-09 20:03:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 147:Did not succeed to copy 3D models!
+('SW2', '${KIPRJMOD}\\packages3D\\SW_Cherry_MX_PCB.wrl')
+('SW56', '${KIPRJMOD}\\packages3D\\SW_Cherry_MX_PCB.wrl')
+('S1', '${KIPRJMOD}\\packages3D\\Stabilizer_Cherry_MX_2.00u.wrl')
+('SW33', '${KIPRJMOD}\\packages3D\\SW_Cherry_MX_PCB.wrl')
+('SW4', '${KIPRJMOD}\\packages3D\\SW_Cherry_MX_PCB.wrl')
+('SW49', '${KIPRJMOD}\\packages3D\\SW_Cherry_MX_PCB.wrl')
+('SW78', '${KIPRJMOD}\\packages3D\\SW_Cherry_MX_PCB.wrl')
+('S4', '${KIPRJMOD}\\packages3D\\Stabilizer_Cherry_MX_2.00u.wrl')
+('SW63', '${KIPRJMOD}\\packages3D\\SW_Cherry_MX_PCB.wrl')
+('SW51', '${KIPRJMOD}\\packages3D\\SW_Cherry_MX_PCB.wrl')
+('SW52', '${KIPRJMOD}\\packages3D\\SW_Cherry_MX_PCB.wrl')
+('SW7', '${KIPRJMOD}\\packages3D\\SW_Cherry_MX_PCB.wrl')
+('SW97', '${KIPRJMOD}\\packages3D\\SW_Cherry_MX_PCB.wrl')
+('SW70', '${KIPRJMOD}\\packages3D\\SW_Cherry_MX_PCB.wrl')
+('SW30', '${KIPRJMOD}\\packages3D\\SW_Cherry_MX_PCB.wrl')
+('SW37', '${KIPRJMOD}\\packages3D\\SW_Cherry_MX_PCB.wrl')
+('SW81', '${KIPRJMOD}\\packages3D\\SW_Cherry_MX_PCB.wrl')
+('SW14', '${KIPRJMOD}\\packages3D\\SW_Cherry_MX_PCB.wrl')
+('SW31', '${KIPRJMOD}\\packages3D\\SW_Cherry_MX_PCB.wrl')
+('SW40', '${KIPRJMOD}\\packages3D\\SW_Cherry_MX_PCB.wrl')
+('SW6', '${KIPRJMOD}\\packages3D\\SW_Cherry_MX_PCB.wrl')
+('SW93', '${KIPRJMOD}\\packages3D\\SW_Cherry_MX_PCB.wrl')
+('SW19', '${KIPRJMOD}\\packages3D\\SW_Cherry_MX_PCB.wrl')
+('SW92', '${KIPRJMOD}\\packages3D\\SW_Cherry_MX_PCB.wrl')
+('SW18', '${KIPRJMOD}\\packages3D\\SW_Cherry_MX_PCB.wrl')
+('SW58', '${KIPRJMOD}\\packages3D\\SW_Cherry_MX_PCB.wrl')
+('SW3', '${KIPRJMOD}\\packages3D\\SW_Cherry_MX_PCB.wrl')
+('SW83', '${KIPRJMOD}\\packages3D\\SW_Cherry_MX_PCB.wrl')
+('SW41', '${KIPRJMOD}\\packages3D\\SW_Cherry_MX_PCB.wrl')
+('SW16', '${KIPRJMOD}\\packages3D\\SW_Cherry_MX_PCB.wrl')
+('SW45', '${KIPRJMOD}\\packages3D\\SW_Cherry_MX_PCB.wrl')
+('SW44', '${KIPRJMOD}\\packages3D\\SW_Cherry_MX_PCB.wrl')
+('SW24', '${KIPRJMOD}\\packages3D\\SW_Cherry_MX_PCB.wrl')
+('SW35', '${KIPRJMOD}\\packages3D\\SW_Cherry_MX_PCB.wrl')
+('SW10', '${KIPRJMOD}\\packages3D\\SW_Cherry_MX_PCB.wrl')
+('S8', '${KIPRJMOD}\\packages3D\\Stabilizer_Cherry_MX_2.00u.wrl')
+('SW48', '${KIPRJMOD}\\packages3D\\SW_Cherry_MX_PCB.wrl')
+('SW68', '${KIPRJMOD}\\packages3D\\SW_Cherry_MX_PCB.wrl')
+('SW84', '${KIPRJMOD}\\packages3D\\SW_Cherry_MX_PCB.wrl')
+('S5', '${KIPRJMOD}\\packages3D\\Stabilizer_Cherry_MX_2.00u.wrl')
+('SW77', '${KIPRJMOD}\\packages3D\\SW_Cherry_MX_PCB.wrl')
+('SW74', '${KIPRJMOD}\\packages3D\\SW_Cherry_MX_PCB.wrl')
+('SW86', '${KIPRJMOD}\\packages3D\\SW_Cherry_MX_PCB.wrl')
+('S6', '${KIPRJMOD}\\packages3D\\Stabilizer_Cherry_MX_2.00u.wrl')
+('SW75', '${KIPRJMOD}\\packages3D\\SW_Cherry_MX_PCB.wrl')
+('SW54', '${KIPRJMOD}\\packages3D\\SW_Cherry_MX_PCB.wrl')
+('S7', '${KIPRJMOD}\\packages3D\\Stabilizer_Cherry_MX_2.00u.wrl')
+('SW50', '${KIPRJMOD}\\packages3D\\SW_Cherry_MX_PCB.wrl')
+('SW42', '${KIPRJMOD}\\packages3D\\SW_Cherry_MX_PCB.wrl')
+('SW28', '${KIPRJMOD}\\packages3D\\SW_Cherry_MX_PCB.wrl')
+('SW23', '${KIPRJMOD}\\packages3D\\SW_Cherry_MX_PCB.wrl')
+('SW38', '${KIPRJMOD}\\packages3D\\SW_Cherry_MX_PCB.wrl')
+('SW20', '${KIPRJMOD}\\packages3D\\SW_Cherry_MX_PCB.wrl')
+('SW47', '${KIPRJMOD}\\packages3D\\SW_Cherry_MX_PCB.wrl')
+('SW73', '${KIPRJMOD}\\packages3D\\SW_Cherry_MX_PCB.wrl')
+('SW87', '${KIPRJMOD}\\packages3D\\SW_Cherry_MX_PCB.wrl')
+('SW12', '${KIPRJMOD}\\packages3D\\SW_Cherry_MX_PCB.wrl')
+('SW62', '${KIPRJMOD}\\packages3D\\SW_Cherry_MX_PCB.wrl')
+('SW22', '${KIPRJMOD}\\packages3D\\SW_Cherry_MX_PCB.wrl')
+('SW89', '${KIPRJMOD}\\packages3D\\SW_Cherry_MX_PCB.wrl')
+('SW76', '${KIPRJMOD}\\packages3D\\SW_Cherry_MX_PCB.wrl')
+('SW21', '${KIPRJMOD}\\packages3D\\SW_Cherry_MX_PCB.wrl')
+('SW82', '${KIPRJMOD}\\packages3D\\SW_Cherry_MX_PCB.wrl')
+('S9', '${KIPRJMOD}\\packages3D\\Stabilizer_Cherry_MX_2.00u.wrl')
+('SW91', '${KIPRJMOD}\\packages3D\\SW_Cherry_MX_PCB.wrl')
+('SW65', '${KIPRJMOD}\\packages3D\\SW_Cherry_MX_PCB.wrl')
+('SW96', '${KIPRJMOD}\\packages3D\\SW_Cherry_MX_PCB.wrl')
+('SW69', '${KIPRJMOD}\\packages3D\\SW_Cherry_MX_PCB.wrl')
+('SW34', '${KIPRJMOD}\\packages3D\\SW_Cherry_MX_PCB.wrl')
+('SW79', '${KIPRJMOD}\\packages3D\\SW_Cherry_MX_PCB.wrl')
+('SW60', '${KIPRJMOD}\\packages3D\\SW_Cherry_MX_PCB.wrl')
+('SW15', '${KIPRJMOD}\\packages3D\\SW_Cherry_MX_PCB.wrl')
+('SW39', '${KIPRJMOD}\\packages3D\\SW_Cherry_MX_PCB.wrl')
+('SW67', '${KIPRJMOD}\\packages3D\\SW_Cherry_MX_PCB.wrl')
+('SW72', '${KIPRJMOD}\\packages3D\\SW_Cherry_MX_PCB.wrl')
+('SW27', '${KIPRJMOD}\\packages3D\\SW_Cherry_MX_PCB.wrl')
+('SW95', '${KIPRJMOD}\\packages3D\\SW_Cherry_MX_PCB.wrl')
+('SW5', '${KIPRJMOD}\\packages3D\\SW_Cherry_MX_PCB.wrl')
+('SW80', '${KIPRJMOD}\\packages3D\\SW_Cherry_MX_PCB.wrl')
+('SW94', '${KIPRJMOD}\\packages3D\\SW_Cherry_MX_PCB.wrl')
+('SW26', '${KIPRJMOD}\\packages3D\\SW_Cherry_MX_PCB.wrl')
+('S3', '${KIPRJMOD}\\packages3D\\Stabilizer_Cherry_MX_7.00u.wrl')
+('SW46', '${KIPRJMOD}\\packages3D\\SW_Cherry_MX_PCB.wrl')
+('SW98', '${KIPRJMOD}\\packages3D\\SW_Cherry_MX_PCB.wrl')
+('SW61', '${KIPRJMOD}\\packages3D\\SW_Cherry_MX_PCB.wrl')
+('SW11', '${KIPRJMOD}\\packages3D\\SW_Cherry_MX_PCB.wrl')
+('SW43', '${KIPRJMOD}\\packages3D\\SW_Cherry_MX_PCB.wrl')
+('SW85', '${KIPRJMOD}\\packages3D\\SW_Cherry_MX_PCB.wrl')
+('SW53', '${KIPRJMOD}\\packages3D\\SW_Cherry_MX_PCB.wrl')
+('SW32', '${KIPRJMOD}\\packages3D\\SW_Cherry_MX_PCB.wrl')
+('SW36', '${KIPRJMOD}\\packages3D\\SW_Cherry_MX_PCB.wrl')
+('SW71', '${KIPRJMOD}\\packages3D\\SW_Cherry_MX_PCB.wrl')
+('SW64', '${KIPRJMOD}\\packages3D\\SW_Cherry_MX_PCB.wrl')
+('SW88', '${KIPRJMOD}\\packages3D\\SW_Cherry_MX_PCB.wrl')
+('SW29', '${KIPRJMOD}\\packages3D\\SW_Cherry_MX_PCB.wrl')
+('SW99', '${KIPRJMOD}\\packages3D\\SW_Cherry_MX_PCB.wrl')
+('SW17', '${KIPRJMOD}\\packages3D\\SW_Cherry_MX_PCB.wrl')
+('SW55', '${KIPRJMOD}\\packages3D\\SW_Cherry_MX_PCB.wrl')
+('SW25', '${KIPRJMOD}\\packages3D\\SW_Cherry_MX_PCB.wrl')
+('SW9', '${KIPRJMOD}\\packages3D\\SW_Cherry_MX_PCB.wrl')
+('SW57', '${KIPRJMOD}\\packages3D\\SW_Cherry_MX_PCB.wrl')
+('SW59', '${KIPRJMOD}\\packages3D\\SW_Cherry_MX_PCB.wrl')
+('SW8', '${KIPRJMOD}\\packages3D\\SW_Cherry_MX_PCB.wrl')
+('SW13', '${KIPRJMOD}\\packages3D\\SW_Cherry_MX_PCB.wrl')
+('SW90', '${KIPRJMOD}\\packages3D\\SW_Cherry_MX_PCB.wrl')
+('SW66', '${KIPRJMOD}\\packages3D\\SW_Cherry_MX_PCB.wrl')
