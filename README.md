@@ -2,6 +2,7 @@
 RP2040 Based PCB for GeonWorks W1-AT. Currently Untested*.
 
 Features pull up indicator LEDs, low profile components, and ESR protection. 
+
 ***Test PCB's have shipped and should be here in a few days, thought I'd mention it considering R2 drop today***
 
 There was a lot of inspiration taken from the Fuyu by Zykrah and SST60 by Dededecline. 
