@@ -5,6 +5,11 @@ Features pull up indicator LEDs, low profile components, and ESR protection.
 
 ***First prototype has arrived and is fully functional!!! Aside from some minor silkscreen junk, there are no issues.***
 
+### Changelog
+- Replaced crystal with CSTNE12M0GH5C000R0 as it has internal load caps thus reduced component variety.
+- Firmware now supports via, just load the definition .json located in /Firmware (disable v2 definitions if it is enabled)
+- Changed switch footprint & fixed silkscreen issues.
+
 There was a lot of inspiration taken from the Fuyu by Zykrah and SST60 by Dededecline.
 Original design by Yiancar.
 ## Images
@@ -16,5 +21,4 @@ Original design by Yiancar.
 ![Alt text](https://github.com/FinnKrass/W1-AT-RP2040/blob/main/img/f.PNG)
 
 
-### Changelog
-- Replaced crystal with CSTNE12M0GH5C000R0 as it has internal load caps thus reduced component variety.
+
