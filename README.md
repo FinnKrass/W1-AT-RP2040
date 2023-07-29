@@ -12,6 +12,10 @@ Features pull up indicator LEDs, low profile components, and ESR protection.
 
 There was a lot of inspiration taken from the Fuyu by Zykrah and SST60 by Dededecline.
 Original design by Yiancar.
+
+### Layout
+![Alt text](https://github.com/FinnKrass/W1-AT-RP2040/blob/main/img/layout-compat.png)
+
 ## Images
 ![Alt text](https://github.com/FinnKrass/W1-AT-RP2040/blob/main/img/41EEBDE7-8214-4665-B2C2-39DA7D2F328E.jpeg)
 ![Alt text](https://github.com/FinnKrass/W1-AT-RP2040/blob/main/img/build2.jpeg)
@@ -19,6 +23,3 @@ Original design by Yiancar.
 ![Alt text](https://github.com/FinnKrass/W1-AT-RP2040/blob/main/img/d.png)
 ![Alt text](https://github.com/FinnKrass/W1-AT-RP2040/blob/main/img/e.png)
 ![Alt text](https://github.com/FinnKrass/W1-AT-RP2040/blob/main/img/f.PNG)
-
-
-
