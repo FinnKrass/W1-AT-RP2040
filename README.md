@@ -3,7 +3,7 @@ RP2040 Based PCB for GeonWorks W1-AT.
 
 Features pull up indicator LEDs, low profile components, and ESR protection.
 
-***First prototype has arrived and is fully functional!!! Aside from some minor silkscreen junk, there are no issues.***
+***This design is tested and working.***
 
 ### Changelog
 - Replaced crystal with CSTNE12M0GH5C000R0 as it has internal load caps thus reduced component variety.
